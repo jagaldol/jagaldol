@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyejunn
-- 👀 I’m interested in AI, Android, front-end etc.
+- 👀 I’m interested in AI, Android, front-end, back-end etc.
 - 🌱 I’m currently in 3rd year of Pusan National University
 - 📫 contact: yoy06056@pusan.ac.kr
 
