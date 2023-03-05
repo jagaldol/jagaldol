@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jagaldol
-- 👀 I’m interested in AI, Android, front-end, back-end etc.
-- 🌱 I’m currently in 3rd year of Pusan National University
+- 👀 I’m interested in back-end, AI (also Android, front-end).
+- 🌱 I’m currently in 4rd year of Pusan National University
 - 📫 contact: yoy06056@pusan.ac.kr
 
 <!---
