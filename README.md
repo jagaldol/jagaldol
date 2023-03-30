@@ -19,13 +19,14 @@
 
 ### 🛠️ 사용 기술
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![express.js](https://img.shields.io/badge/Express.js-aeaeae?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 👀 even tried once..
 ![apache](https://img.shields.io/badge/Apache-C92037?style=for-the-badge&logo=apache&logoColor=white)
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
+![kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🚀 프로젝트
 [피아노 투게더 레슨 관리 시스템(2022.12. ~ 2023.2.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
