@@ -29,7 +29,14 @@
 ![kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🚀 프로젝트
-[피아노 투게더 레슨 관리 시스템(2022.12. ~ 2023.2.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
+[달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
+
+[Smoke-Detector🚬(2022.12.)](https://github.com/jagaldol/smoke-detector)
+
+[피아노 투게더🎹 레슨 관리 시스템(2022.12. ~ 2023.2.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
+
+## 📌etc.
+[아임 홈🏠 -'I'들을 위한 일상공유 플랫폼(제 1회 앞마당 해커톤(2022.08.13. ~ 08.14.))](https://github.com/jagaldol/ImHome)
 
 ## 📫 더 자세히
 * 개인 블로그: [jagaldol.github.io](https://jagaldol.github.io/)
