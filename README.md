@@ -1,8 +1,10 @@
 # 🧑🏻‍💻 프로필
-> 안녕하세요! 저는 백엔드 개발자 지망생 안혜준입니다.  
+> 안녕하세요! 저는 백엔드 개발자 지망생 안혜준입니다.    
 > 현재 부산대학교 정보컴퓨터공학부 4학년으로 재학중입니다.
 
 <br/>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol)
 
 ![jagaldol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagaldol&count_private=true&show_icons=true&hide_border=true)
 
@@ -27,6 +29,8 @@
 ![apache](https://img.shields.io/badge/Apache-C92037?style=for-the-badge&logo=apache&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-2BA977?style=for-the-badge&logo=django&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ## 🚀 프로젝트
 [달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
