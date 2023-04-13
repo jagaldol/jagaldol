@@ -32,15 +32,17 @@
 ![Django](https://img.shields.io/badge/-Django-2BA977?style=for-the-badge&logo=django&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white)
 
+## 🎓 학력/경력
+* 부산대학교 정보컴퓨터공학부(2018.03. ~ 2024.02.(졸업 예정))
+* [카카오 테크 캠퍼스 1기(2023.04. ~ 2023.11.(진행 중))](https://www.kakaotechcampus.com)
+
 ## 🚀 프로젝트
-[달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
-
-[Smoke-Detector🚬(2022.12.)](https://github.com/jagaldol/smoke-detector)
-
-[피아노 투게더🎹 레슨 관리 시스템(2022.12. ~ 2023.2.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
+* [달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
+* [Smoke-Detector🚬(2022.12.)](https://github.com/jagaldol/smoke-detector)
+* [피아노 투게더🎹 레슨 관리 시스템(2022.12. ~ 2023.02.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
 
 ## 📌etc.
-[아임 홈🏠 -'I'들을 위한 일상공유 플랫폼(제 1회 앞마당 해커톤(2022.08.13. ~ 08.14.))](https://github.com/jagaldol/ImHome)
+* [아임 홈🏠 -'I'들을 위한 일상공유 플랫폼(제 1회 앞마당 해커톤(2022.08.13. ~ 08.14.))](https://github.com/jagaldol/ImHome)
 
 ## 📫 더 자세히
 * 개인 블로그: [jagaldol.github.io](https://jagaldol.github.io/)
