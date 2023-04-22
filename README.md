@@ -45,5 +45,5 @@
 * [아임 홈🏠 -'I'들을 위한 일상공유 플랫폼(제 1회 앞마당 해커톤(2022.08.13. ~ 08.14.))](https://github.com/jagaldol/ImHome)
 
 ## 📫 더 자세히
-* 개인 블로그: [jagaldol.github.io](https://jagaldol.github.io/)
+* 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
 * 메일: [yoy06056@pusan.ac.kr](mailto:yoy06056@pusan.ac.kr)
