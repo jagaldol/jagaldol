@@ -31,6 +31,7 @@
 ![kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-2BA977?style=for-the-badge&logo=django&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white)
+![LaTex](https://img.shields.io/badge/-LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🚀 프로젝트
 [달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
