@@ -9,7 +9,7 @@
 ![jagaldol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagaldol&count_private=true&show_icons=true&hide_border=true)
 
 ## ❤️ 관심분야
-웹 개발, AI, 자연어 처리, 그래픽스, Android 등에 관심이 있습니다.
+웹 개발, AI, 자연어 처리, 그래픽스 등에 관심이 있습니다.
 
 ### 🖋️ 사용 언어
 ![javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
