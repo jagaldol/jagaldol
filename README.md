@@ -12,14 +12,15 @@
 웹 개발, AI, 자연어 처리, 그래픽스 등에 관심이 있습니다.
 
 ### 🖋️ 사용 언어
+![java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)
 ![javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
 ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00427E?style=for-the-badge&logo=c%2B%2B)
-![java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)
 ![html5](https://img.shields.io/badge/-HTML5-E14921?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-006EBA?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ 사용 기술
+![spring boot](https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express.js](https://img.shields.io/badge/Express.js-aeaeae?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
@@ -29,6 +30,7 @@
 ![apache](https://img.shields.io/badge/Apache-C92037?style=for-the-badge&logo=apache&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-292929?style=for-the-badge&logo=unity&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-2BA977?style=for-the-badge&logo=django&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)
