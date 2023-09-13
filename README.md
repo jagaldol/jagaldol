@@ -43,6 +43,7 @@
 * [달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
 * [Smoke-Detector🚬(2022.12.)](https://github.com/jagaldol/smoke-detector)
 * [피아노 투게더🎹 레슨 관리 시스템(2022.12. ~ 2023.02.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
+* [ChatFoodie - LLM을 이용한 음식 추천 챗봇[부산대학교 졸업과제](2023.06. ~ 2023.09.)](https://chatfoodie.net/)
 
 ## 📌etc.
 * [아임 홈🏠 -'I'들을 위한 일상공유 플랫폼(제 1회 앞마당 해커톤(2022.08.13. ~ 08.14.))](https://github.com/jagaldol/ImHome)
