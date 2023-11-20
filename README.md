@@ -1,5 +1,6 @@
 # 🧑🏻‍💻 프로필
-> 안녕하세요! 저는 백엔드 개발자 지망생 안혜준입니다.    
+
+> 안녕하세요! 저는 백엔드 개발자 지망생 안혜준입니다.  
 > 현재 부산대학교 정보컴퓨터공학부 4학년으로 재학중입니다.
 
 <br/>
@@ -9,45 +10,57 @@
 ![jagaldol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagaldol&count_private=true&show_icons=true&hide_border=true)
 
 ## ❤️ 관심분야
-웹 개발, AI, 자연어 처리, 그래픽스 등에 관심이 있습니다.
+
+서버 개발, 웹 개발, AI, 자연어 처리, 그래픽스 등에 관심이 있습니다.
 
 ### 🖋️ 사용 언어
+
 ![java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)
-![javascript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
-![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-00427E?style=for-the-badge&logo=c%2B%2B)
-![html5](https://img.shields.io/badge/-HTML5-E14921?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-CSS3-006EBA?style=for-the-badge&logo=css3&logoColor=white)
+![python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![typescript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![html5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-A8B9CC?style=for-the-badge&logo=c%2B%2B)
 
 ### 🛠️ 사용 기술
+
 ![spring boot](https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express.js](https://img.shields.io/badge/Express.js-aeaeae?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 👀 even tried once..
-![apache](https://img.shields.io/badge/Apache-C92037?style=for-the-badge&logo=apache&logoColor=white)
-![android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
+
+![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
 ![kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
+![android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-292929?style=for-the-badge&logo=unity&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-2BA977?style=for-the-badge&logo=django&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🎓 학력/경력
-* 부산대학교 정보컴퓨터공학부(2018.03. ~ 2024.02.(졸업 예정))
-* [카카오 테크 캠퍼스 1기(2023.04. ~ 2023.11.(진행 중))](https://www.kakaotechcampus.com)
+
+- 부산대학교 정보컴퓨터공학부(2018.03. ~ 2024.02.(졸업 예정))
+- [카카오 테크 캠퍼스 1기(2023.04. ~ 2023.11.(진행 중))](https://www.kakaotechcampus.com)
 
 ## 🚀 프로젝트
-* [달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
-* [Smoke-Detector🚬(2022.12.)](https://github.com/jagaldol/smoke-detector)
-* [피아노 투게더🎹 레슨 관리 시스템(2022.12. ~ 2023.02.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
-* [ChatFoodie - LLM을 이용한 음식 추천 챗봇[부산대학교 졸업과제](2023.06. ~ 2023.09.)](https://chatfoodie.net/)
+
+- [달리는 알람⏰(2022.10. ~ 2022.12.)](https://github.com/jagaldol/running-alarm)
+- [Smoke-Detector🚬(2022.12.)](https://github.com/jagaldol/smoke-detector)
+- [피아노 투게더🎹 레슨 관리 시스템(2022.12. ~ 2023.02.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
+- [ChatFoodie - LLM을 이용한 음식 추천 챗봇[부산대학교 졸업과제](2023.06. ~ 2023.09.)](https://chatfoodie.net/)
 
 ## 📌etc.
-* [아임 홈🏠 -'I'들을 위한 일상공유 플랫폼(제 1회 앞마당 해커톤(2022.08.13. ~ 08.14.))](https://github.com/jagaldol/ImHome)
+
+- [아임 홈🏠 -'I'들을 위한 일상공유 플랫폼(제 1회 앞마당 해커톤(2022.08.13. ~ 08.14.))](https://github.com/jagaldol/ImHome)
 
 ## 📫 더 자세히
-* 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
-* 메일: [yoy06056@pusan.ac.kr](mailto:yoy06056@pusan.ac.kr)
+
+- 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
+- 메일: [yoy06056@pusan.ac.kr](mailto:yoy06056@pusan.ac.kr)
