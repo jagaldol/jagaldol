@@ -9,7 +9,7 @@
 
 ![jagaldol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagaldol&count_private=true&show_icons=true&hide_border=true)
 
-<a href="https://wakatime.com/@godkingjay" target="_blank">
+<a href="https://wakatime.com/@jagaldol" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact" alt="Wakatime Coding Time" width="540px">
 </a>
 
@@ -74,4 +74,3 @@
 
 - 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
 - 메일: [yoy06056@pusan.ac.kr](mailto:yoy06056@pusan.ac.kr)
-
