@@ -9,6 +9,10 @@
 
 ![jagaldol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagaldol&count_private=true&show_icons=true&hide_border=true)
 
+<a href="https://wakatime.com/@godkingjay" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact" alt="Wakatime Coding Time" width="540px">
+</a>
+
 ## ❤️ 관심분야
 
 서버 개발, 웹 개발, AI, 자연어 처리, 그래픽스 등에 관심이 있습니다.
