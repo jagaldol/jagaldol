@@ -66,10 +66,13 @@
 - [ChatFoodie🍔 - LLM을 이용한 음식 추천 챗봇[부산대학교 졸업과제](2023.06. ~ 2023.09.)](https://chatfoodie.net/)
 - [번개 볼링🎳 - 번개 지향 볼링 모집 커뮤니티[카테캠 최종 팀 프로젝트(수상🏆)](2023.09. ~ 2023.11.)](https://github.com/Step3-kakao-tech-campus/Team3_BE)
 
-## 📌etc.
+## 📌 etc.
 
 - [아임 홈🏠 -'I'들을 위한 일상공유 플랫폼[제 1회 앞마당 해커톤](2022.08.13. ~ 08.14.)](https://github.com/jagaldol/ImHome)
 - [box.size📦 - 스마트폰 카메라를 이용한 박스 크기 측정[CJ 미래기술 챌린지(본선 진출🚩)](2022.07. ~ 2022.08.)](https://github.com/Box-size/box.size-android)
+
+## 🪪 자격/증명
+- TOPCIT - 수준 3(608점)
 
 ## 📫 더 자세히
 
