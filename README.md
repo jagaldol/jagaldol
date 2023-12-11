@@ -72,8 +72,8 @@
 - [box.size📦 - 스마트폰 카메라를 이용한 박스 크기 측정[CJ 미래기술 챌린지(본선 진출🚩)](2022.07. ~ 2022.08.)](https://github.com/Box-size/box.size-android)
 
 ## 🪪 자격/증명
-- TOPCIT(Test Of Practical Competency in IT) - 수준 3(608점)
-
+- **TOPCIT**(Test Of Practical Competency in IT) - **수준 3(608점)**
+- **PCCP**(Programmers Certified Coding Professional) **Python - level 3(700점)**
 ## 📫 더 자세히
 
 - 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
