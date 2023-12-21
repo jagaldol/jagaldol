@@ -74,6 +74,8 @@
 ## 🪪 자격/증명
 - **TOPCIT**(Test Of Practical Competency in IT) - **수준 3(608점)**
 - **PCCP**(Programmers Certified Coding Professional) **Python - level 3(700점)**
+- **TOEIC**(Test Of English for International Communication) - **830점**
+
 ## 📫 더 자세히
 
 - 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
