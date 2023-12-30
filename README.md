@@ -80,4 +80,4 @@
 ## 📫 더 자세히
 
 - 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
-- 메일: [yoy06056@pusan.ac.kr](mailto:yoy06056@pusan.ac.kr)
+- 메일: [jagaldol.dev@gmail.com](mailto:jagaldol.dev@gmail.com)
