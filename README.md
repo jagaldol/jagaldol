@@ -79,5 +79,5 @@
 
 ## 📫 더 자세히
 
-- 개인 블로그: [blog.jagaldol.dev](https://blog.jagaldol.dev)
+- 개인 블로그: [blog.jagaldol.com](https://blog.jagaldol.com/)
 - 메일: [jagaldol.dev@gmail.com](mailto:jagaldol.dev@gmail.com)
