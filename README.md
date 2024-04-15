@@ -8,6 +8,12 @@
 
 [![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact)](https://wakatime.com/@jagaldol)
 
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-green-animate.svg" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-green-animate.svg" />
+</picture>
+
 </div>
 
 ## ❤️ Skills
@@ -28,10 +34,10 @@
 
 ![spring boot](https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 👀 even tried once..
 
@@ -73,8 +79,6 @@
 - **TOPCIT**(Test Of Practical Competency in IT) - **수준 3(608점)**
 - **PCCP**(Programmers Certified Coding Professional) **Python - level 3(700점)**
 - **TOEIC**(Test Of English for International Communication) - **830점** -->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 📫 Contact
 
