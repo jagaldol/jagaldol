@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=300&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Hyejun%20An&descAlignY=55&descAlign=70)
 
-<br/>
+<div align="center">
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol)
 
 ![jagaldol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagaldol&count_private=true&show_icons=true&hide_border=true)
 
-<a href="https://wakatime.com/@jagaldol" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact" alt="Wakatime Coding Time" width="540px">
-</a>
+[![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact)](https://wakatime.com/@jagaldol)
+
+</div>
 
 ## ❤️ Skills
 
