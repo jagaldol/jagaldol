@@ -1,55 +1,51 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=300&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Hyejun%20An&descAlignY=55&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=300&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Hyejun%20An&descAlignY=53&descAlign=70)
 
 <div align="center">
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol)
+<div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" />
+</div>
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
 
-![jagaldol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagaldol&count_private=true&show_icons=true&hide_border=true)
-
-[![Wakatime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact)](https://wakatime.com/@jagaldol)
-
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=jagaldol&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jagaldol" />
+        <img src="https://streak-stats.demolab.com?user=jagaldol" width="49%" alt="streaks graph" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+    </picture>
+</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact" width="99%" alt="Wakatime Coding Time" />
+</picture>
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-green-animate.svg" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-green-animate.svg" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
 </picture>
 
+## ⚙️ Technologies and Skills
+
+### 🖋️ Main Languages & Skills
+
+![My Languages](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,py,ts,react)
+
+### 🛠️ Other Sills & Tools
+
+![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=git,github,githubactions,redis,aws,nginx,docker,gradle,js,html,css,c,cpp,nextjs,gatsby,vite,tailwind,postman,figma,notion&perline=10)
+
+<!-- ### 👀 even tried once..
+
+![tried once](https://skillicons.dev/icons?i=fastapi,opencv,graphql,nodejs,express,androidstudio,unity,django,threejs,latex) -->
+
 </div>
-
-## ❤️ Skills
-
-서버 개발, 웹 개발, AI, 자연어 처리, 그래픽스 등에 관심이 있습니다.
-
-### 🖋️ Languages
-
-![java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)
-![python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
-![typescript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![html5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-A8B9CC?style=for-the-badge&logo=c%2B%2B)
-
-### 🛠️ Framework/Libraries & Tools
-
-![spring boot](https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 👀 even tried once..
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
-
-![Unity](https://img.shields.io/badge/-Unity-292929?style=for-the-badge&logo=unity&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-2BA977?style=for-the-badge&logo=django&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white)
-![LaTex](https://img.shields.io/badge/-LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🎓 Education
 
