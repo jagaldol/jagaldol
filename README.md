@@ -53,20 +53,28 @@
 
 ## 🎓 Education
 
-- 부산대학교 정보컴퓨터공학부(2018.03. ~ 2024.08.(졸업 예정))
-- [카카오 테크 캠퍼스 1기(2023.04. ~ 2023.11.)](https://www.kakaotechcampus.com)
+- 부산대학교 정보컴퓨터공학부
+  - 2018.03. ~ 2024.08.(졸업 예정)
+- [카카오 테크 캠퍼스 1기](https://www.kakaotechcampus.com)
+  - 2023.04. ~ 2023.11.
 
 ## 🏆 Awards
 
-- 카카오 테크 캠퍼스 1기 신규 서비스 개발 프로젝트 - **대상**(2023.11.17.)
-- 제 1회 PNU Coding Challenge - **우수상**(2023.12.20.)
-- 2023년 TOPCIT 성적우수자 - **한국정보산업연합회장상**(2023.12.22.)
+- 카카오 테크 캠퍼스 1기 신규 서비스 개발 프로젝트 - **대상**
+  - 2023.11.17.
+- 제 1회 PNU Coding Challenge - **우수상**
+  - 2023.12.20.
+- 2023년 TOPCIT 성적우수자 - **한국정보산업연합회장상**
+  - 2023.12.22.
 
 ## 🚀 Projects
 
-- [피아노 투게더🎹 레슨 관리 시스템(2022.12. ~ 2023.02.)](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
-- [ChatFoodie🍔 - LLM을 이용한 음식 추천 챗봇[부산대학교 졸업과제](2023.06. ~ 2023.09.)](https://chatfoodie.net/)
-- [번개 볼링🎳 - 번개 지향 볼링 모집 커뮤니티[카테캠 최종 팀 프로젝트(수상🏆)](2023.09. ~ 2023.11.)](https://github.com/Step3-kakao-tech-campus/Team3_BE)
+- [피아노 투게더🎹 - 레슨 관리 시스템](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
+  - 2022.12. ~ 2023.02.
+- [ChatFoodie🍔 - LLM을 이용한 음식 추천 챗봇](https://chatfoodie.net/)
+  - 2023.06. ~ 2023.09.
+- [번개 볼링🎳 - 번개 지향 볼링 모집 커뮤니티[수상🏆]](https://github.com/Step3-kakao-tech-campus/Team3_BE)
+  - 2023.09. ~ 2023.11.
 
 <!-- ## 📌 etc.
 
