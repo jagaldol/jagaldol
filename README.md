@@ -2,36 +2,18 @@
 
 <div align="center">
 
-<div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" />
-</div>
+**Profile Views**
+
+<img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" />
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
 
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=jagaldol&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jagaldol" />
-        <img src="https://streak-stats.demolab.com?user=jagaldol" width="49%" alt="streaks graph" />
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-    </picture>
-</div>
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact" width="99%" alt="Wakatime Coding Time" />
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-green-animate.svg" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
-</picture>
-
 ## ⚙️ Technologies and Skills
+
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=blue_navy&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
+</picture>
 
 ### 🖋️ Main Languages & Skills
 
@@ -44,6 +26,26 @@
 <!-- ### 👀 even tried once..
 
 ![tried once](https://skillicons.dev/icons?i=fastapi,opencv,graphql,nodejs,express,androidstudio,unity,django,threejs,latex) -->
+
+## 🪧 Github Stats
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=jagaldol&theme=blue_navy&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jagaldol&hide_border=true" />
+        <img src="https://streak-stats.demolab.com?user=jagaldol" width="49%" alt="streaks graph" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true&theme=blue_navy&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&count_private=true&hide_border=true" width="49%" alt="stats graph" />
+    </picture>
+</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-green-animate.svg" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
+</picture>
 
 </div>
 
