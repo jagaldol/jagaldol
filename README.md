@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=300&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Hyejun%20An&descAlignY=53&descAlign=70)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=300&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Hyejun%20An&descAlignY=53&descAlign=70)
 
 **Profile Views**
 
@@ -51,28 +51,51 @@
 
 ## 🎓 Education
 
-- 부산대학교 정보컴퓨터공학부
-  - 2018.03. ~ 2024.08.(졸업 예정)
-- [카카오 테크 캠퍼스 1기](https://www.kakaotechcampus.com)
-  - 2023.04. ~ 2023.11.
+### 부산대학교 정보컴퓨터공학부
+
+- 재학중(졸업예정)
+- 2018.03. ~ 2024.08.
+
+### [카카오 테크 캠퍼스 1기](https://www.kakaotechcampus.com)
+
+- 2023.04. ~ 2023.11.
 
 ## 🏆 Awards
 
-- 카카오 테크 캠퍼스 1기 신규 서비스 개발 프로젝트 - **대상**
-  - 2023.11.17.
-- 제 1회 PNU Coding Challenge - **우수상**
-  - 2023.12.20.
-- 2023년 TOPCIT 성적우수자 - **한국정보산업연합회장상**
-  - 2023.12.22.
+### 신규 서비스 개발 프로젝트
+
+- 주최: 카카오 테크 캠퍼스 1기
+- 내역: 대상
+- 일시: 2023.11.17
+
+### 제 1회 PNU Coding Challenge
+
+- 주최: 부산대학교
+- 내역: 우수상
+- 일시: 2023.12.20
+
+### 2023년 TOPCIT 성적우수자
+
+- 주최: 정보통신기획평가원
+- 내역: 한국정보산업연합회장상
+- 일시: 2023.12.22
 
 ## 🚀 Projects
 
-- [피아노 투게더🎹 - 레슨 관리 시스템](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
-  - 2022.12. ~ 2023.02.
-- [ChatFoodie🍔 - LLM을 이용한 음식 추천 챗봇](https://chatfoodie.net/)
-  - 2023.06. ~ 2023.09.
-- [번개 볼링🎳 - 번개 지향 볼링 모집 커뮤니티[수상🏆]](https://github.com/Step3-kakao-tech-campus/Team3_BE)
-  - 2023.09. ~ 2023.11.
+### [피아노 투게더🎹](https://fast-kilogram-f15.notion.site/38cd8462261f4843abf4802d55e4435d)
+
+- 피아노 학원 레슨 관리 시스템
+- 2022.12. ~ 2023.02.
+
+### [ChatFoodie🍔](https://chatfoodie.net/)
+
+- LLM을 이용한 음식 추천 챗봇
+- 2023.06. ~ 2023.09.
+
+### [번개 볼링🎳[수상🏆]](https://github.com/Step3-kakao-tech-campus/Team3_BE)
+
+- 번개 지향 볼링 모집 커뮤니티
+- 2023.09. ~ 2023.11.
 
 <!-- ## 📌 etc.
 
@@ -88,6 +111,6 @@
 
 ## 📫 Contact
 
-- 포트폴리오: [jagaldol.com](https://jagaldol.com)
-- 개인 블로그: [blog.jagaldol.com](https://blog.jagaldol.com)
-- 메일: [jagaldol.dev@gmail.com](mailto:jagaldol.dev@gmail.com)
+- Portfolio: [jagaldol.com](https://jagaldol.com)
+- Blog: [blog.jagaldol.com](https://blog.jagaldol.com)
+- Email: [jagaldol.dev@gmail.com](mailto:jagaldol.dev@gmail.com)
