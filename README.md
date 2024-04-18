@@ -21,7 +21,7 @@
 
 ### 🛠️ Other Sills & Tools
 
-![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=git,github,githubactions,redis,aws,nginx,docker,gradle,js,html,css,c,cpp,nextjs,gatsby,vite,tailwind,postman,figma,notion&perline=10)
+![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=git,github,githubactions,redis,aws,nginx,docker,gradle,js,html,css,c,cpp,nextjs,react,gatsby,tailwind,postman,figma,notion&perline=10)
 
 <!-- ### 👀 even tried once..
 
