@@ -17,11 +17,13 @@
 
 ### 🖋️ Main Languages & Skills
 
-![My Languages](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,py,ts,react)
+![My Languages](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,py,ts,react,nextjs)
 
 ### 🛠️ Other Sills & Tools
 
-![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=git,github,githubactions,redis,aws,nginx,docker,gradle,js,html,css,c,cpp,nextjs,react,gatsby,tailwind,postman,figma,notion&perline=10)
+![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=git,github,githubactions,redis,aws,nginx,docker,cloudflare,express,opencv,js,html,css,c,cpp,gatsby,tailwind,postman,figma,notion&perline=10)
+
+<!-- ai,fastapi,graphql,gradle -->
 
 <!-- ### 👀 even tried once..
 
