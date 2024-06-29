@@ -126,6 +126,7 @@
 
 ## 📫 Contact
 
+- Linkedlin: [안혜준(Hyejun An)](https://www.linkedin.com/in/%ED%98%9C%EC%A4%80-%EC%95%88-182a4a278/)
 - Portfolio: [jagaldol.com](https://jagaldol.com)
 - Blog: [blog.jagaldol.com](https://blog.jagaldol.com)
 - Email: [jagaldol.dev@gmail.com](mailto:jagaldol.dev@gmail.com)
