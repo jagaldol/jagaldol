@@ -53,19 +53,17 @@
 
 ## 🎓 Education
 
-### 구글 머신러닝 부트캠프 2024
+### [구글 머신러닝 부트캠프 2024](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024/home)
 
-- 진행중
 - 2024.07. ~ 2024.10.
-
-### 부산대학교 정보컴퓨터공학부
-
-- 재학중(졸업예정)
-- 2018.03. ~ 2024.08.
 
 ### [카카오 테크 캠퍼스 1기](https://www.kakaotechcampus.com)
 
 - 2023.04. ~ 2023.11.
+
+### 부산대학교 정보컴퓨터공학부
+
+- 2018.03. ~ 2025.02.
 
 ## 🏆 Awards
 
