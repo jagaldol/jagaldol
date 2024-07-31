@@ -53,6 +53,10 @@
 
 ## 🎓 Education
 
+### [네이버 부스트 캠프 AI Tech 7기 - NLP 트랙](https://boostcamp.connect.or.kr/program_ai.html)
+
+- 2024.08. ~ 2025.02.
+
 ### [구글 머신러닝 부트캠프 2024](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024/home)
 
 - 2024.07. ~ 2024.10.
