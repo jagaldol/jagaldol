@@ -57,7 +57,7 @@
 
 - 2024.08. ~ 2025.02.
 
-### [구글 머신러닝 부트캠프 2024](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024/home)
+### [구글 머신러닝 부트캠프 5기 2024](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024/home)
 
 - 2024.07. ~ 2024.10.
 
