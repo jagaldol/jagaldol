@@ -22,5 +22,6 @@ jobs:
         with:
           target_branch: output-3d-contrib
           build_dir: profile-3d-contrib
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
