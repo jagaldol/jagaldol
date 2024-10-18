@@ -15,19 +15,24 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
 </picture>
 
-### 🖋️ Main Languages & Skills
+### 💡 Main Languages & Skills
 
-![My Languages](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,py,ts,react,nextjs)
+![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
+![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![huggingface](https://img.shields.io/badge/-huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![langchain](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🛠️ Other Sills & Tools
+### 🖋️ All Languages
 
-![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=git,github,githubactions,redis,aws,nginx,docker,cloudflare,express,opencv,js,html,css,c,cpp,gatsby,tailwind,postman,figma,notion&perline=10)
+![My Languages](https://skillicons.dev/icons?i=py,ts,java,kotlin,md,html,css,js,c,cpp)
 
-<!-- ai,fastapi,graphql,gradle -->
+### 🛠️ Other Skills & Tools
+
+![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda,fastapi,spring,gradle,mysql,redis,git,github,githubactions,linux,vim,aws,nginx,docker,cloudflare,nodejs,express,graphql,react,nextjs,gatsby,tailwind,vercel,postman,figma,notion,obsidian&perline=10)
 
 <!-- ### 👀 even tried once..
 
-![tried once](https://skillicons.dev/icons?i=fastapi,opencv,graphql,nodejs,express,androidstudio,unity,django,threejs,latex) -->
+![tried once](https://skillicons.dev/icons?i=opencv,androidstudio,unity,django,threejs,latex) -->
 
 ## 🪧 Github Stats
 
