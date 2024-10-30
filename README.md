@@ -106,7 +106,7 @@
 
 - LLM을 이용한 음식 추천 챗봇
 - 부산대학교 졸업과제
-- 2023.06. ~ 2023.09.
+- 2023.06. ~ 2023.10.
 
 ### [Box.size📦](https://github.com/Box-size/box.size-android)
 
