@@ -96,6 +96,12 @@
 
 ## 🚀 Projects
 
+### [UnDoc🩺[우수 프로젝트🎖️]](https://github.com/jagaldol/health-care-advisor)
+
+- RAFT 및 RAG 기반 의료상담 챗봇 모델 연구
+- 구글 머신러닝 부트캠프 **우수 프로젝트** 선정
+- 2024.09. ~ 2024.10.
+
 ### [번개 볼링🎳[수상🏆]](https://github.com/Step3-kakao-tech-campus/Team3_BE)
 
 - 번개 지향 볼링 모집 커뮤니티
