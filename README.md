@@ -38,9 +38,9 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=jagaldol&theme=blue_navy&hide_border=true&card_width=467" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jagaldol&hide_border=true&card_width=467" />
-        <img src="https://streak-stats.demolab.com/?user=jagaldol&hide_border=true&card_width=467" width="49%" alt="streaks graph" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats-jagaldol.vercel.app/?user=jagaldol&theme=blue_navy&hide_border=true&card_width=467" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-jagaldol.vercel.app/?user=jagaldol&hide_border=true&card_width=467" />
+        <img src="https://github-readme-streak-stats-jagaldol.vercel.app/?user=jagaldol&hide_border=true&card_width=467" width="49%" alt="streaks graph" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&theme=blue_navy&hide_border=true" />
