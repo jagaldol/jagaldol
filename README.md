@@ -1,11 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=300&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20|%20Hyejun%20An&descAlignY=53&descAlign=70)
-
-**Profile Views**
-
-<img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" />
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=250&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20|%20Hyejun%20An&descAlignY=53&descAlign=70)
 
 ## ⚙️ Technologies and Skills
 
@@ -53,6 +48,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-green-animate.svg" />
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
 </picture>
+
+
+### Profile Views
+
+<img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" />
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
 
 </div>
 
