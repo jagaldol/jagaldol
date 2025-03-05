@@ -49,7 +49,6 @@
     <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/jagaldol/jagaldol/output-3d-contrib/profile-night-green.svg" />
 </picture>
 
-
 ### Profile Views
 
 <img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" />
@@ -102,6 +101,12 @@
 - 일시: 2023.11.17
 
 ## 🚀 Projects
+
+### [매일메일✉️](https://github.com/jagaldol/maeilmail)
+
+- 일간 메일 보고서 비서
+- 네이버 부스트캠프 7기 Upstage 기업 해커톤
+- 2025.01. ~ 2025.02.
 
 ### [UnDoc🩺[우수 프로젝트🎖️]](https://github.com/jagaldol/health-care-advisor)
 
