@@ -54,6 +54,14 @@
 <img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" />
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
 
+### Solved.ac Rating
+
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" />
+    <img src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" alt="solvedac badge" />
+</picture>
+
 </div>
 
 ## 🎓 Education
@@ -150,12 +158,6 @@
 - **TOEIC**(Test Of English for International Communication) - **830점** -->
 
 ## 📫 Contact
-
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" />
-    <img src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" alt="solvedac badge" />
-</picture>
 
 - Linkedlin: [안혜준(Hyejun An)](https://www.linkedin.com/in/hye-jun/)
 - Portfolio: [jagaldol.com](https://jagaldol.com)
