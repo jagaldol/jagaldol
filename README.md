@@ -64,6 +64,12 @@
 
 </div>
 
+## 🏢 Work Experience
+
+### Upstage | AI Research Engineer Intern
+
+- 2025.05. ~ 현재
+
 ## 🎓 Education
 
 ### [네이버 부스트 캠프 AI Tech 7기 - NLP 트랙](https://boostcamp.connect.or.kr/program_ai.html)
