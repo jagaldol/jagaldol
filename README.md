@@ -66,9 +66,9 @@
 
 ## 🏢 Work Experience
 
-### Upstage | AI Research Engineer Intern
+### [Upstage] AI Research Engineer Intern
 
-- 2025.05. ~ 현재
+- 2025.05. ~ Present
 
 ## 🎓 Education
 
