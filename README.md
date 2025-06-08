@@ -4,11 +4,14 @@
 
 ## ⚙️ Technologies and Skills
 
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=blue_navy&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
-</picture>
+
+<a href="https://wakatime.com/@jagaldol" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=blue_navy&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
+    </picture>
+</a>
 
 ### 💡 Main Languages & Skills
 
