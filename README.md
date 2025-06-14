@@ -4,7 +4,6 @@
 
 ## ⚙️ Technologies and Skills
 
-
 <a href="https://wakatime.com/@jagaldol" target="_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=blue_navy&hide_border=true" />
@@ -17,7 +16,7 @@
 
 ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
 ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![huggingface](https://img.shields.io/badge/-huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![huggingface](https://img.shields.io/badge/-huggingface-E6A100?style=for-the-badge&logo=huggingface&logoColor=white)
 ![langchain](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🖋️ All Languages
