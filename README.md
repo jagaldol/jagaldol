@@ -53,11 +53,9 @@
 
 ### Profile Views
 
-<!-- <img src="https://profile-counter.glitch.me/jagaldol/count.svg" width="240px" /> -->
+<img src="https://server.jagaldol.com/profile-counter/jagaldol/count.svg" width="240px" />
 
-![](https://komarev.com/ghpvc/?username=jagaldol&style=for-the-badge&color=lightgray)
-
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
+<!-- ![](https://komarev.com/ghpvc/?username=jagaldol&style=for-the-badge&color=lightgray) -->
 
 ### Solved.ac Rating
 
