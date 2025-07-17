@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=250&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20|%20Hyejun%20An&descAlignY=53&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=250&section=header&text=Jagaldol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Hyejun%20An&descAlignY=53&descAlign=70)
 
 ## ⚙️ Technologies and Skills
 
