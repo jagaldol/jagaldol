@@ -6,9 +6,9 @@
 
 <a href="https://wakatime.com/@jagaldol" target="_blank">
     <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=blue_navy&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-jagaldol.vercel.app/api/wakatime?username=jagaldol&layout=compact&theme=blue_navy&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jagaldol.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" />
+        <img src="https://github-readme-stats-jagaldol.vercel.app/api/wakatime?username=jagaldol&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
     </picture>
 </a>
 
@@ -40,9 +40,9 @@
         <img src="https://github-readme-streak-stats-jagaldol.vercel.app/?user=jagaldol&hide_border=true&card_width=467" width="49%" alt="streaks graph" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&theme=blue_navy&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=jagaldol&show_icons=true&hide_border=true" width="49%" alt="stats graph" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-jagaldol.vercel.app/api?username=jagaldol&show_icons=true&theme=blue_navy&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jagaldol.vercel.app/api?username=jagaldol&show_icons=true&hide_border=true" />
+        <img src="https://github-readme-stats-jagaldol.vercel.app/api?username=jagaldol&show_icons=true&hide_border=true" width="49%" alt="stats graph" />
     </picture>
 </div>
 <picture>
