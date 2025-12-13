@@ -71,7 +71,7 @@
 
 ### [Upstage] AI Research Engineer Intern
 
-- 2025.05. ~ Present
+- 2025.05. ~ 2025.11.
 
 ## 🎓 Education
 
