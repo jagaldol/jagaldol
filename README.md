@@ -83,7 +83,7 @@
 
 - 2024.07. ~ 2024.10.
 
-### [카카오 테크 캠퍼스 1기](https://www.kakaotechcampus.com)
+### [카카오 테크 캠퍼스 1기 Back-end(JAVA)](https://www.kakaotechcampus.com)
 
 - 2023.04. ~ 2023.11.
 
