@@ -15,9 +15,9 @@
 ### 💡 Main Languages & Skills
 
 ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
-![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![huggingface](https://img.shields.io/badge/-huggingface-E6A100?style=for-the-badge&logo=huggingface&logoColor=white)
 ![langchain](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![llm](https://img.shields.io/badge/-llm-3F51B5?style=for-the-badge)
+![agent](https://img.shields.io/badge/-agent-2ECC71?style=for-the-badge)
 
 ### 🖋️ All Languages
 
