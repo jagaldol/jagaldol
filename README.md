@@ -59,11 +59,9 @@
 
 ### Solved.ac Rating
 
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" />
-    <img src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=jun0129&compact=true" alt="solvedac badge" />
-</picture>
+<a href="https://solved.ac/jun0129">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jun0129" alt="Solved.ac profile" />
+</a>
 
 </div>
 
