@@ -135,7 +135,7 @@
 - 카카오 테크 캠퍼스 최종 프로젝트[대상]
 - 2023.09. ~ 2023.11.
 
-### [ChatFoodie🍔](https://chatfoodie.net/)
+### [ChatFoodie🍔](https://jagaldol.com/projects/chat-foodie/)
 
 - LLM을 이용한 음식 추천 챗봇
 - 부산대학교 졸업과제
