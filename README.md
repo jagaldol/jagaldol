@@ -117,6 +117,11 @@
 
 ## 🚀 Projects
 
+### [Lifebase](https://lifebaseai.com)
+
+- 개인 기록을 바탕으로 AI와 계획하고 실행하는 Obsidian 기반 개인비서 워크스페이스
+- 2026.03. ~ 현재
+
 ### [매일메일✉️](https://github.com/jagaldol/maeilmail)
 
 - 일간 메일 보고서 비서
